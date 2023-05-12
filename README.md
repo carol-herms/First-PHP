@@ -8,3 +8,5 @@ The following technologies were used in this project:
 - MySql
 - Xampp
 - Git Bash
+
+I first created a repository on github, then cloned it locally using gitbash
